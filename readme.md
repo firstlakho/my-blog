@@ -14,6 +14,13 @@ commands:
 npm i flowbite-react
 npm i react-icons
 for server setup in root dir run npm init -y
+in pakage.json add  "type": "module",
+"scripts": {
+    "dev": "nodemon api/index.js",
+    "start": "node api/index.js"
+  },
+npm i mongoose
+npm i dotenv
 Git:
 https://github.com/sahandghavidel/mern-blog
 Timeline:
