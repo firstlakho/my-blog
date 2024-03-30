@@ -13,6 +13,7 @@ commands:
 12. npm i react-router-dom
 npm i flowbite-react
 npm i react-icons
+for server setup in root dir run npm init -y
 Git:
 https://github.com/sahandghavidel/mern-blog
 Timeline:
