@@ -10,6 +10,9 @@ commands:
 9.run application--> npm run dev
 10.text tw classname'text-3xl text-red-500' if it work mean installation is good 
 11.setup git go to main folder cd.. to code folder --> git init --> git add . 
+12. npm i react-router-dom
+npm i flowbite-react
+npm i react-icons
 Git:
 https://github.com/sahandghavidel/mern-blog
 Timeline:
